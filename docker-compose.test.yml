@@ -1,3 +1,0 @@
-sut:
-  build: .
-  command: echo "Branch $SOURCE_BRANCH, Test $TEST, Test OK"
